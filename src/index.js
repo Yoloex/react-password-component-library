@@ -1,0 +1,1 @@
+export { default as PasswordForm } from "./components/PasswordForm/PasswordForm";
